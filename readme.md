@@ -37,8 +37,8 @@ The app is composed of 2 pages, index.html and style.css. It also has images in 
 </p>
 
 ## Screenshot
-![Screenshot 1](https://github.com/DukeWilki/homework01/assets/images/screenshot1.png)
-![Screenshot 2](https://github.com/DukeWilki/homework01/assets/images/screenshot2.png)
+![Screenshot 1](https://github.com/DukeWilki/homework01/blob/master/assets/images/screenshot1.png)
+![Screenshot 2](https://github.com/DukeWilki/homework01/blob/master/assets/images/screenshot2.png)
 
 
 ### Link to the App
