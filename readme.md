@@ -42,8 +42,7 @@ The app is composed of 2 pages, index.html and style.css. It also has images in 
 
 
 ### Link to the App
-<a href=".">Horisean</a><hr> is hosted on GitHub
-<hr>
+<a href=".">Horisean</a> is hosted on GitHub<hr>
 
 ### Licence
 Create new file on GitHUB=> name it License.md => select license from the right button
