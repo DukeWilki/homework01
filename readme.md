@@ -8,7 +8,7 @@ The app is composed of 2 pages, index.html and style.css. It also has images in 
 ​
 ## User Story
 <p>
-AS A marketing agency
+    AS A marketing agency
 
     I WANT a codebase that follows accessibility standards
     SO THAT our own site is optimized for search engines
@@ -16,7 +16,7 @@ AS A marketing agency
 
 ## Acceptance Criteria 
 <p>
-GIVEN a webpage meets accessibility standards:
+    GIVEN a webpage meets accessibility standards:
 
     WHEN I view the source code
     THEN I find semantic HTML elements
