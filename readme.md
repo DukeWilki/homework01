@@ -8,6 +8,7 @@ The app is composed of 2 pages, index.html and style.css. It also has images in 
 ​
 ## User Story
 <p>
+    
     AS A marketing agency
 
     I WANT a codebase that follows accessibility standards
@@ -16,6 +17,7 @@ The app is composed of 2 pages, index.html and style.css. It also has images in 
 
 ## Acceptance Criteria 
 <p>
+    
     GIVEN a webpage meets accessibility standards:
 
     WHEN I view the source code
@@ -41,7 +43,7 @@ The app is composed of 2 pages, index.html and style.css. It also has images in 
 ​
 #### Initial interface
 
-
+![Screenshot 1](https://github.com/DukeWilki/Homework01/assets/images/Screenshot1.png)
 ​
 ### Licence
 ​
