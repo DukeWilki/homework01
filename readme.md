@@ -3,7 +3,7 @@ This assignment was to rewrite existing souce code to improve it's accessability
 ​
 ## Contents
 <p>
-The app is composed of 2 pages, index.html and style.css. It also has images in the img folder
+The app is composed of 2 pages, index.html and style.css. It also has images in the images folder
 </p>
 ​
 ## User Story
