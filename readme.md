@@ -36,23 +36,26 @@ The app is composed of 2 pages, index.html and style.css. It also has images in 
     THEN I find a concise, descriptive title
 </p>
 ​
-## Built With
-​
-* [VScode](https://code.visualstudio.com/) - The editor of choice
-* [Terminal](https:///) - What would we do without our bash?
-​
-#### Initial interface
 
-![Screenshot 1](https://github.com/DukeWilki/Homework01/assets/images/Screenshot1.png)
 ​
+## Screenshot
+![Screenshot 1](https://github.com/DukeWilki/homework01/blob/assets/images/screenshot1.jpg)
+![Screenshot 2](https://github.com/DukeWilki/homework01/blob/assets/images/screenshot2.jpg)
+
+
+### Link to the App
+<a href=".">Horisean</a><hr> is hosted on GitHub
+<hr>
+
 ### Licence
 ​
 Create new file on GitHUB=> name it License.md => select license from the right button
 ​
-### Link to the App
-<a href=".">Horisean</a><hr> is hosted on GitHub
-<hr>
+
+## Built With
 ​
+* [VScode](https://code.visualstudio.com/) - The editor of choice
+* [Terminal](https:///) - What would we do without our bash?
 ## Authors
 ​
 * **LUKE WILKINSON** - Refractor
