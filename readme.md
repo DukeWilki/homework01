@@ -45,7 +45,7 @@ The app is composed of 2 pages, index.html and style.css. It also has images in 
 <a href=".">Horisean</a> is hosted on GitHub<hr>
 
 ### Licence
-Create new file on GitHUB=> name it License.md => select license from the right button
+Licence not applicable on homework assignment.
 
 ## Built With
 * [VScode](https://code.visualstudio.com/) - The editor of choice
